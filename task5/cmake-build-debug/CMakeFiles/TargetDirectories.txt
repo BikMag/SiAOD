@@ -1,0 +1,3 @@
+D:/Cpp programs/SAOD/Kurs2/task5/cmake-build-debug/CMakeFiles/task5.dir
+D:/Cpp programs/SAOD/Kurs2/task5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cpp programs/SAOD/Kurs2/task5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
